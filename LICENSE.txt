@@ -1,0 +1,53 @@
+VN DECK LICENSE AGREEMENT
+
+Copyright (c) 2026 Albatross Labs. All rights reserved.
+
+This agreement is between you and Albatross Labs ("we", "us") and covers the VN Deck software, its installer, its updates and its documentation ("VN Deck"). By installing, copying or using VN Deck you agree to these terms. If you don't agree, don't install or use it.
+
+1. WHAT YOU MAY DO
+VN Deck is free. You may download it from the official pages listed in section 3, install it, and use it on any number of devices you own or control.
+
+2. WHAT YOU MAY NOT DO
+You may not:
+  a. sell, rent, lease or sublicense VN Deck, or charge for access to it;
+  b. modify, decompile, disassemble or reverse engineer VN Deck, or make derivative works from it, except where the law allows this despite this restriction, or where an open-source license for a component allows it (section 4);
+  c. redistribute, mirror or re-upload VN Deck, in whole or in part, modified or not. Link to the official pages instead;
+  d. remove or change any copyright, license or attribution notices in VN Deck;
+  e. use VN Deck to break any law or any website's terms of service.
+
+3. OFFICIAL PAGES
+VN Deck is distributed only through:
+  - https://github.com/AlbatrossLabs/VNDeck (releases)
+  - the official VN Deck page on itch.io, linked from the GitHub page.
+Copies from anywhere else are not supported, may be altered, and are used at your own risk.
+
+4. THIRD-PARTY COMPONENTS
+VN Deck includes open-source software (including Electron, Chromium, Node.js and libvips) under their own licenses, listed in THIRD-PARTY-NOTICES.txt, which is installed with VN Deck. Those licenses govern those components. Nothing in this agreement limits the rights they give you.
+
+5. THIRD-PARTY SITES, GAMES AND TRADEMARKS
+  a. VN Deck is not affiliated with, endorsed by or sponsored by F95zone, itch.io, the Visual Novel Database (VNDB), Ren'Py, Valve, LaunchBox or any game developer. Their names and trademarks belong to their owners and are used only to describe compatibility.
+  b. VN Deck does not host, sell or provide games. It organizes and launches games you already have, looks up public information about them, and downloads files only when you ask it to.
+  c. You are responsible for following the terms of the websites you use through VN Deck, for having the right to download and play the games in your library, and for following the laws where you live.
+  d. Many games VN Deck works with contain adult content. Those games are intended only for adults of legal age where you live.
+
+6. YOUR DATA AND YOUR FILES
+  a. VN Deck stores its data on your device. It does not send us any information about you or your library, and it contains no telemetry or advertising.
+  b. VN Deck connects to the internet to look up game pages (VNDB, itch.io, F95zone), to download files you ask for, and to check for and download its own updates from the official GitHub releases.
+  c. VN Deck reads your game folders and, when you ask, changes them: it adds a temporary script to Ren'Py games while they run, installs new game versions, moves save files you remove, and sends old game versions and archives you choose to the Recycle Bin. Keep your own backups of saves and files you care about.
+
+7. UPDATES
+VN Deck may check for, download and install updates automatically. Updates are covered by this agreement unless they come with a different one.
+
+8. NO WARRANTY
+VN DECK IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT. WE DO NOT WARRANT THAT VN DECK WILL BE ERROR-FREE OR UNINTERRUPTED, THAT IT WILL WORK WITH ANY PARTICULAR GAME OR WEBSITE, OR THAT INFORMATION IT SHOWS (SUCH AS VERSIONS, MATCHES OR TAGS) IS ACCURATE.
+
+9. LIMITATION OF LIABILITY
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, ALBATROSS LABS AND ITS CONTRIBUTORS WILL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES, OR FOR ANY LOSS OF DATA, SAVE FILES, GAME FILES, PROFITS OR GOODWILL, ARISING FROM YOUR USE OF OR INABILITY TO USE VN DECK, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. OUR TOTAL LIABILITY FOR ANY CLAIM RELATING TO VN DECK IS LIMITED TO THE AMOUNT YOU PAID FOR IT, WHICH IS ZERO. Some places don't allow these limitations, so some of them may not apply to you.
+
+10. ENDING THIS AGREEMENT
+This agreement lasts until it ends. It ends automatically if you break it, and you can end it at any time by uninstalling VN Deck and deleting all copies. Sections 4, 5, 8, 9 and 11 continue after it ends.
+
+11. GENERAL
+This agreement is governed by the laws of the State of Nevada, USA, without regard to its conflict-of-law rules. If any part is found unenforceable, the rest stays in effect. This is the entire agreement about VN Deck between you and us. Later versions of VN Deck may come with an updated agreement.
+
+Questions: https://github.com/AlbatrossLabs/VNDeck/issues
